@@ -99,8 +99,6 @@ void temp :: start(){
         cout<<"enter your answer(A/B/C/D)"<<endl;
         cin.ignore();
         getline(cin,userAns);
-
-        userAns[0] = toupper(userAns[0]); 
         
         if(userAns == CorrectAns){
             score++;
