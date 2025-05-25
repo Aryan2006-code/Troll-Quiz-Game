@@ -1,0 +1,30 @@
+Which company developed Java?
+A) Microsoft
+B) Oracle
+C) Sun Microsystems
+D) IBM
+C
+Which keyword is used to inherit a class in Java?
+A) implements
+B) inherits
+C) extends
+D) override
+C
+Which method is the entry point in a Java program?
+A) start()
+B) main()
+C) run()
+D) init()
+B
+Which of these is not a primitive data type in Java?
+A) int
+B) boolean
+C) String
+D) float
+C
+What is the extension of a Java compiled file?
+A) .java
+B) .class
+C) .exe
+D) .bin
+B

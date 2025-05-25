@@ -1,0 +1,30 @@
+What does CSS stand for?
+A) Color Style Sheet
+B) Creative Style Sheet
+C) Cascading Style Sheet
+D) Computer Style Sheet
+C
+Which symbol is used to select an id in CSS?
+A) .
+B) #
+C) *
+D) $
+B
+Which property sets the background color?
+A) bgcolor
+B) background
+C) background-color
+D) color-bg
+C
+How do you make all text uppercase in CSS?
+A) text-transform: uppercase;
+B) text-case: upper;
+C) case: upper;
+D) font-case: uppercase;
+A
+Which CSS property controls text size?
+A) font-size
+B) text-size
+C) size
+D) font
+A

@@ -1,0 +1,30 @@
+Which of the following is used to define a constant in C++?
+A) constant
+B) final
+C) const
+D) define
+C
+What is the default access modifier for class members in C++?
+A) public
+B) private
+C) protected
+D) static
+B
+Which operator is used to allocate memory dynamically in C++?
+A) malloc
+B) alloc
+C) new
+D) create
+C
+Who developed C++?
+A) Dennis Ritchie
+B) James Gosling
+C) Bjarne Stroustrup
+D) Guido van Rossum
+C
+Which of the following is a correct syntax to declare a pointer?
+A) int *ptr;
+B) int ptr;
+C) pointer int;
+D) int = *ptr;
+A

@@ -1,0 +1,30 @@
+What does HTML stand for?
+A) Hyper Text Machine Language
+B) Hyper Text Markup Language
+C) High Text Markup Language
+D) Hyper Tool Markup Language
+B
+Which tag is used to create a hyperlink in HTML?
+A) <link>
+B) <href>
+C) <a>
+D) <hyper>
+C
+Which tag is used to insert an image?
+A) <img>
+B) <image>
+C) <src>
+D) <pic>
+A
+How do you make text bold in HTML?
+A) <strong>
+B) <bold>
+C) <bld>
+D) <em>
+A
+Which attribute is used to define an inline style?
+A) font
+B) style
+C) css
+D) design
+B

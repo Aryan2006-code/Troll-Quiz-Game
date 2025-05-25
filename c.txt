@@ -1,0 +1,30 @@
+Which function is used to print output in C?
+A) printf()
+B) cout
+C) print()
+D) echo
+A
+What header file is required to use printf()?
+A) stdlib.h
+B) stdio.h
+C) conio.h
+D) string.h
+B
+Which of these is a valid data type in C?
+A) num
+B) str
+C) float
+D) boolean
+C
+C language was developed by?
+A) Bjarne Stroustrup
+B) Dennis Ritchie
+C) James Gosling
+D) Tim Berners-Lee
+B
+Which symbol is used to end a statement in C?
+A) .
+B) ,
+C) ;
+D) :
+C
